@@ -1,5 +1,3 @@
-# Schedtrack.com mobile app
+# Pairs mobile app
 
-
-this is the official mobile app for the free open soiurce rotating schedule web app known as SchedTrack.
-we will be going through a transformation as we switch from next.js to react native for mobile and web versions. bear with us.
+An app to create shared notes, chores, tasks between groups of people, with set values and rewards also completely assignable by the admin or admins of each group
